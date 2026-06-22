@@ -158,7 +158,7 @@ public class Standards {
     public static final URI VOSPACE_FILES = URI.create("ivo://ivoa.net/std/VOSpace#files-proto");
     public static final URI VOSPACE_RECURSIVE_DELETE = URI.create("ivo://ivoa.net/std/VOSpace#recursive-delete-proto");
     public static final URI VOSPACE_RECURSIVE_NODEPROPS = URI.create("ivo://ivoa.net/std/VOSpace#recursive-nodeprops-proto");
-    public static final URI VOSPACE_NODE_SIZE_REPORT = URI.create("ivo://ivoa.net/std/VOSpace#node-size-report");
+    public static final URI VOSPACE_RECURSIVE_NODESIZE = URI.create("ivo://ivoa.net/std/VOSpace#recursive-nodesize-proto");
 
     @Deprecated
     public static final URI VOSPACE_XFER_20 = URI.create("vos://cadc.nrc.ca~vospace/CADC/std/VOSpace#xfer");
