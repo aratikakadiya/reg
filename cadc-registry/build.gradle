@@ -21,7 +21,7 @@ description = 'OpenCADC Registry client library'
 def git_url = 'https://github.com/opencadc/reg'
 
 dependencies {
-    implementation 'org.opencadc:cadc-util:[1.12,)'
+    implementation 'org.opencadc:cadc-util:[1.12.17,)'
 
     testImplementation 'junit:junit:[4.12,)'
     testImplementation 'org.opencadc:cadc-quality:[1.0,)'
